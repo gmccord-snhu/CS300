@@ -2,7 +2,7 @@
 Repository for CS300
 
 ## What was the problem you were solving in the projects for this course?
-The problem addressed in this course was understanding how to effectively store and manage data using various data structures, specifically hash tables, binary search trees, and vectors. This involved not only implementing these structures but also developing algorithms for key operations such as insertion, removal, and updates. The goal was to analyze the efficiency of each structure in terms of time complexity and memory usage while applying these concepts to real-world scenarios, such as a course management system.
+The problem addressed in this course was understanding how to effectively store and manage data using various data structures, specifically hash tables, binary search trees, and vectors. This involved not only implementing these structures but also developing algorithms for key operations such as insertion, removal, and sorting. The goal was to analyze the efficiency of each structure in terms of time complexity and memory usage while applying these concepts to real-world scenarios, such as a course management system.
 
 ## How did you approach the problem?
 I began by examining the requirements of the project and understanding the benefits and drawbacks of each data storage approach. This involved researching how each structure operates under different scenarios, such as the average and worst-case performance of hash tables compared to binary trees and vectors. I created a comparison chart to visualize these aspects, which helped me decide which structures to implement for the course management system.
